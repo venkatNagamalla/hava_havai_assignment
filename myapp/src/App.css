@@ -1,0 +1,14 @@
+
+
+*{
+  font-family: "Roboto";
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

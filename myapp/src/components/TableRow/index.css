@@ -1,0 +1,10 @@
+.row-btn {
+  background-color: transparent;
+  border: none;
+  margin-right: 8px;
+}
+
+.row-btn-container {
+  display: flex;
+  align-items: center;
+}

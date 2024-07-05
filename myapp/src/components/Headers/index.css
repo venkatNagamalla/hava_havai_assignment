@@ -1,0 +1,28 @@
+.user {
+  width: 32px;
+  height: 32px;
+  top: 14px;
+  left: 1848px;
+  gap: 0px;
+  border-radius: 50px;
+  opacity: 0px;
+}
+
+.logo {
+  height: 20px;
+  top: 20px;
+  left: 20px;
+  font-family: "Poppins";
+  color: #000;
+}
+
+nav {
+  width: 100%;
+  height: 60px;
+  gap: 0px;
+  opacity: 0px;
+  color: #fff;
+  display: flex;
+  padding: 20px 25px 0px 27px;
+  justify-content: space-between;
+}

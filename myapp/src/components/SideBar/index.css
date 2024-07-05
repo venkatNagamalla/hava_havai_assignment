@@ -1,0 +1,74 @@
+.icon {
+  height: 18px;
+  width: 18px;
+  color: #464646;
+}
+
+.icon-name {
+  font-family: "Source Sans Pro", "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  height: 18px;
+  color: #222222;
+  line-height: 17.6px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.list-container {
+  list-style-type: none;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+  width: Fill (240px) px;
+  height: Fixed (34px) px;
+  padding: 7px 10px 8px 10px;
+  gap: 10px;
+  opacity: 0px;
+}
+
+.sidebar-container {
+  width: 260px;
+  height: 80vh;
+  position: static;
+  padding: 5px 16px 16px 16px;
+  bottom: 10px;
+}
+
+.heading,
+.nav {
+  width: Fill (240px) px;
+  height: Fixed (34px) px;
+  padding: 7px 12px 8px 12px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.item {
+  width: 216px;
+  height: 18px;
+  gap: 0px;
+  font-weight: 600;
+  opacity: 0px;
+  color: #222222;
+}
+
+.active {
+  background: #0000000f;
+}
+
+.list-item {
+  width: Fill (240px) px;
+  height: Fixed (34px) px;
+  padding: 7px 12px 8px 12px;
+  gap: 10px;
+  opacity: 0px;
+}
+
+.others-container,
+.nav-container {
+  margin-top: 12px;
+}
